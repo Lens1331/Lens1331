@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Real time frienship zone here.....
 - 🌱 I’m currently learning ...Microsoft web design
 - 💞️ I’m looking to collaborate on ...Microsofthub
-- 📫 How to reach me ...email ID Leagtheresa5@gmail.com
+- 📫 How to reach me ...email ID Leahtheresa5@gmail.com
 
 <!---
 Lens1331/Lens1331 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
